@@ -38,7 +38,7 @@
 #define CPU_MAP_ATMEGA328P // Arduino Uno CPU
 
 // Serial baud rate
-#define BAUD_RATE 115200
+#define BAUD_RATE 9600
 
 // Define realtime command special characters. These characters are 'picked-off' directly from the
 // serial read data stream and are not passed to the grbl line execution parser. Select characters
